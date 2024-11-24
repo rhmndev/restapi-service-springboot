@@ -1,0 +1,1 @@
+package com.project.myapps.movie.models;import lombok.Getter;import lombok.Setter;@Getter@Setterpublic class ModelMovieRequest {    private String title;    private String genre;    private String duration;    private String director;    private String rating;}

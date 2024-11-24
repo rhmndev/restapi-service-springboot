@@ -1,0 +1,1 @@
+package com.project.myapps.movie.services;import com.project.myapps.movie.entities.Movie;public interface MovieServiceImpl {    String addMovie(Movie movies);}
