@@ -1,0 +1,1 @@
+package com.project.myapps.student.model;import lombok.Getter;import lombok.Setter;@Getter@Setterpublic class StudentRequest {    private String name;    private String address;}

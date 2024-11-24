@@ -1,0 +1,1 @@
+package com.project.myapps.student.service;import com.project.myapps.student.model.StudentRequest;public interface StudentService {    String save(StudentRequest request);}
